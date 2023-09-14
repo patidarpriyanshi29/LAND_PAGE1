@@ -1,0 +1,214 @@
+body{
+    background-color:lavender;
+    background-attachment: fixed;
+    background-position:center;
+    
+}
+header
+{
+    margin-top: 0px;
+    background-color:lavender;
+
+    
+}
+
+.list
+{
+    
+    color: black;
+    list-style: none;
+    list-style: none;
+    margin: 3px 40px;
+    font-size: xx-large;
+    justify-content: center;
+    
+}
+.nav{
+    list-style: none;
+    float: right;
+    display: flex;
+    text-decoration: none;
+    justify-items: center;
+    
+    
+   
+}
+.logo
+{
+    
+    display: flex;
+    font-size: 40px;
+    color: black;
+    text-shadow: 2px 3px  lightcoral;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+    align-items: center;
+    margin-left: -29.5px;
+
+}
+.list:hover
+{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    box-sizing: border-box;
+    box-shadow: 3px 4px chocolate;
+}
+.black
+{
+    font-size: 89px;
+    margin-left: 229px;
+    margin-top: 89px;
+}
+.blackyy
+{
+    font-size: 89px;
+    margin-left: 216px;
+    margin-top: 10px;
+}
+.red
+{
+    font-size: 89px;
+    padding: 2px;
+    margin-left: 227px;
+    margin-top: 13px;
+    margin-trim: 23px;
+    color: red;
+    ;
+}
+
+.para
+{
+    width: 700px ;
+    height: 40px;
+    font-weight: 50;
+    margin:77px 45px;
+    font-family:serif;
+    margin-inline: 45px;
+    font-size: x-large;
+}
+.para2
+{
+    width: 700px ;
+    height: 40px;
+    font-weight: 50;
+    margin:-82px 45px;
+    font-family:serif;
+    margin-inline: 45px;
+    font-size: x-large;
+
+}
+.para3
+{
+    width: 700px ;
+    height: 40px;
+    font-weight: 50;
+    margin:81px 287px;
+    font-family:serif;
+    margin-inline: 45px;
+    font-size: x-large;
+}
+.left
+{
+    margin-left: 61px;
+    margin-top: -46px;
+}
+input{
+    width:400px;
+    height: 60px;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 2;
+    background-color:lightgrey;
+    border: 2px solid white;
+    margin-left: 153px;
+    margin-top: 39px;
+}
+ .left1
+{
+    background-color: red;
+    width:400px;
+    height: 60px;
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    justify-self: center;
+    margin-left: 153px;
+    margin-top: 23px;
+   
+    
+
+}
+.food
+{
+   
+   float: right;
+    width:800px;
+    height: 750px;
+    margin-right: 78px;
+    margin-bottom: -570px;
+    margin-top: -610px;
+    margin-left: 23px;
+    
+
+    
+    /* margin-top: -45px;
+    margin-left: 23px; */ 
+}
+.pestry
+{
+
+float: right;
+margin-left: 380px;
+width: 300px;
+height: 400px;
+margin-top: 150px;
+background-color: white;
+mix-blend-mode:multiply;
+
+
+
+}
+
+.burger
+{    
+    float: right;
+    margin-left : 37px;
+    width: 300px;
+    margin-top: 150px;
+    height: 400px;
+    /* background-color: whitesmoke ;  */
+    mix-blend-mode:multiply;
+    
+}
+.sandwitch
+{
+    float: right;
+    /* margin-left :100px; */
+    width: 280px;
+    margin-right: -340px;
+    margin-top: 150px;
+    height: 400px;
+    mix-blend-mode:multiply;
+    /* background-color: whitesmoke; */
+    
+ 
+}
+.copy
+{
+    font-weight: 100;
+    text-align: center;
+    justify-content: center;
+     margin-top: 400px;
+     font-size: x-large;
+}
+.food
+{
+     mix-blend-mode:multiply; 
+    background-color: none;
+    filter:opacity();
+}
+.img
+{
+    mix-blend-mode: multiply;
+}
